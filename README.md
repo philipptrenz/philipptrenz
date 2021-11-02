@@ -58,7 +58,7 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 * 👨‍🎓 Master of Science in *IT-Systems Engineering* @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/en/) (2018-ongoing)
 * 👨‍🔬 Research Assistant in *Computer Graphics* @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/doellner/home.html) (2020-2021)
 * 👨‍💻 Intern in *Computer Graphics* / *iOS Development* @ [Digital Masterpieces, Potsdam](https://www.digitalmasterpieces.com) (2020-2021)
-* 👨‍🎓 Bachelor of Science in *Media Informatics* @ [University of Applied Science Harz, Wernigerode](https://www.hs-harz.de/en/) (2014-2018) 
+* 👨‍🎓 Bachelor of Science in *Media Informatics* @ [Harz University, Wernigerode](https://www.hs-harz.de/en/) (2014-2018) 
 * 👨‍💻 Intern in *Automotive* / *Computer Graphics* @ [AKKA Digital, Ingolstadt](https://www.akka-technologies.com/sector/empower-your-activities-with-digital-technologies/) (2017-2018) 
 
 

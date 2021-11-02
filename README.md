@@ -54,7 +54,7 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 
 ## Career
 
-* 👨‍💼 Freelance software developer @ home office (since 2021)
+* 👨‍💼 Freelance software developer (since 2021)
 * 👨‍🎓 Master of Science in *IT-Systems Engineering* @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/en/) (2018-ongoing)
 * 👨‍🔬 Research Assistant in *Computer Graphics* @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/doellner/home.html) (2020-2021)
 * 👨‍💻 Intern in *Computer Graphics* / *iOS Development* @ [Digital Masterpieces, Potsdam](https://www.digitalmasterpieces.com) (2020-2021)

@@ -13,7 +13,7 @@ Do you want to connect, have questions or a job request?
 * 📧 [mail@philipptrenz.de](mailto:mail@philipptrenz.de)
 * 📞 [+49 176 44553932](tel:+4917644553932)
 
-Looking forward to hear from you! 🖖
+Also feel free to add me on [LinkedIn](https://www.linkedin.com/in/philipp-trenz-a544a8182/). Looking forward to hear from you! 🖖
 
 
 
@@ -54,12 +54,12 @@ Check it out @ [melinamonks.de](http://melinamonks.de)
 
 ## Professional career
 
-* 👨‍💼 Freelance software developer (since 2021)
-* 👨‍🎓 Master of Science in IT-Systems Engineering @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/en/) (2018-ongoing)
-* 👨‍🔬 Research Assistant in Computer Graphics @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/doellner/home.html) (2020-2021)
-* 👨‍💻 Intern @ [Digital Masterpieces, Potsdam](https://www.digitalmasterpieces.com) (2020-2021)
+* 👨‍💼 Freelance software developer @ home office (since 2021)
+* 👨‍🎓 Master of Science in *IT-Systems Engineering* @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/en/) (2018-ongoing)
+* 👨‍🔬 Research Assistant in *Computer Graphics* @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/doellner/home.html) (2020-2021)
+* 👨‍💻 Intern in *Computer Graphics* / *iOS Development* @ [Digital Masterpieces, Potsdam](https://www.digitalmasterpieces.com) (2020-2021)
 * 👨‍🎓 Bachelor of Science in *Media Informatics* @ [University of Applied Science Harz, Wernigerode](https://www.hs-harz.de/en/) (2014-2018) 
-* 👨‍💻 Intern in Automotive @ [AKKA Digital, Ingolstadt](https://www.akka-technologies.com/sector/empower-your-activities-with-digital-technologies/) (2017-2018) 
+* 👨‍💻 Intern in *Automotive* / *Computer Graphics* @ [AKKA Digital, Ingolstadt](https://www.akka-technologies.com/sector/empower-your-activities-with-digital-technologies/) (2017-2018) 
 
 
 

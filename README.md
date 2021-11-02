@@ -65,6 +65,6 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 
 ## Voluntary Work
 
-* Co-Founder & Dev @ [covidpass.eu](https://covidpass.eu) (2021-today)
-* Support in IT and PR @ [casayohana Foundation (Germany)](https://casayohana.org) (2020-today)
-* Network and IT System Administrator @ [casayohana (Campus Peru)](https://casayohana.org) (2019-today)
+* 💁‍♂️ Co-Founder & Dev @ [covidpass.eu](https://covidpass.eu) (2021-today)
+* 🙆‍♂️ Support in IT and PR @ [casayohana Foundation (Germany)](https://casayohana.org) (2020-today)
+* 🙋‍♂️ Network and IT System Administrator @ [casayohana (Campus Peru)](https://casayohana.org) (2019-today)

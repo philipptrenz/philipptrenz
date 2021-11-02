@@ -56,7 +56,7 @@ Check it out @ [johannamellenthin.de](https://johannamellenthin.de/)
 
 ![Melina Monks Open Graph Image](images/og-melinamonks.jpg)
 
-Melina Monks accompanies people in body awareness, wish for children and birth support. Based on the corporate design by [Johanna Mellenthin](https://www.linkedin.com/in/johannamellenthin/), [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/) designed the website. And I finally implemented it as a statically generated page with [Nuxt.js](https://github.com/nuxt/nuxt.js).
+Melina Monks accompanies people in body awareness, wish for children and birth support. [Johanna Mellenthin](https://www.linkedin.com/in/johannamellenthin/) created the corporate design for her and [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/) did the web design. Based on that I implemented a statically generated page using [Nuxt.js](https://github.com/nuxt/nuxt.js) and [tailwindcss](https://github.com/tailwindlabs/tailwindcss).
 
 Check it out @ [melinamonks.de](https://melinamonks.de)
 

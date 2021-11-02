@@ -46,7 +46,7 @@ Check it out @ [covidpass.eu](https://covidpass.eu/)
 
 ![Melina Monks Open Graph Image](images/og-melinamonks.png)
 
-Melina Monks accompanies people in body awareness, childbearing and birth support. Based on the corporate design by [Johanna Mellenthin](https://www.linkedin.com/in/johannamellenthin/), [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/) designed the website. And I finally implemented it as a statically generated page with [Nuxt.js](https://github.com/nuxt/nuxt.js).
+Melina Monks accompanies people in body awareness, wish for children and birth support. Based on the corporate design by [Johanna Mellenthin](https://www.linkedin.com/in/johannamellenthin/), [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/) designed the website. And I finally implemented it as a statically generated page with [Nuxt.js](https://github.com/nuxt/nuxt.js).
 
 Check it out @ [melinamonks.de](http://melinamonks.de)
 

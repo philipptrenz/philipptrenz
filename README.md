@@ -2,9 +2,9 @@
 
 Glad you stopped by. You wonder who I am and what I do?
 
-* I'm a **software developer** living near Berlin, Germany 📍
+* I'm a **freelance software developer** living near Berlin, Germany 📍
 * I have a 💚 for open source, data privacy, UX and social engagement
-* Always having some side projects going on and loving it 🤗
+* Always having some side projects going on 🤗
 
 
 
@@ -28,9 +28,9 @@ Looking forward to hear from you! 🖖
 
 
 
-## Current projects
+## Recent projects
 
-Here comes a selection of my projects:
+Here comes a selection of my projects, I hope you like it!
 
 ### covidpass.eu 
 
@@ -46,7 +46,7 @@ Check it out @ [covidpass.eu](https://covidpass.eu/)
 
 ![Melina Monks Open Graph Image](images/og-melinamonks.png)
 
-Melina Monks accompanies people in body awareness, childbearing and birth support. Based on the corporate design by the talented [Johanna Mellenthin](https://www.linkedin.com/in/johannamellenthin/), [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/) designed the website. And I finally implemented it as a statically generated page with [Nuxt.js](https://github.com/nuxt/nuxt.js).
+Melina Monks accompanies people in body awareness, childbearing and birth support. Based on the corporate design by [Johanna Mellenthin](https://www.linkedin.com/in/johannamellenthin/), [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/) designed the website. And I finally implemented it as a statically generated page with [Nuxt.js](https://github.com/nuxt/nuxt.js).
 
 Check it out @ [melinamonks.de](http://melinamonks.de)
 
@@ -54,12 +54,12 @@ Check it out @ [melinamonks.de](http://melinamonks.de)
 
 ## Professional career
 
-* Freelance software developer (since 2021)
-* Master of Science in IT-Systems Engineering @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/en/) (2018-ongoing)
-* Research Assistant in Computer Graphics @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/doellner/home.html) (2020-2021)
-* Intern @ [Digital Masterpieces](https://www.digitalmasterpieces.com) (2020-2021)
-* Bachelor of Science in *Media Informatics* @ [University of Applied Science Harz, Wernigerode](https://www.hs-harz.de/en/) (2014-2018)
-* Intern in Automotive @ [AKKA Digital, Ingolstadt](https://www.akka-technologies.com/sector/empower-your-activities-with-digital-technologies/) (2017-2018)
+* 👨‍💼 Freelance software developer (since 2021)
+* 👨‍🎓 Master of Science in IT-Systems Engineering @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/en/) (2018-ongoing)
+* 👨‍🔬 Research Assistant in Computer Graphics @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/doellner/home.html) (2020-2021)
+* 👨‍💻 Intern @ [Digital Masterpieces, Potsdam](https://www.digitalmasterpieces.com) (2020-2021)
+* 👨‍🎓 Bachelor of Science in *Media Informatics* @ [University of Applied Science Harz, Wernigerode](https://www.hs-harz.de/en/) (2014-2018) 
+* 👨‍💻 Intern in Automotive @ [AKKA Digital, Ingolstadt](https://www.akka-technologies.com/sector/empower-your-activities-with-digital-technologies/) (2017-2018) 
 
 
 

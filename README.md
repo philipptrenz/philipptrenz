@@ -1,14 +1,14 @@
 # Hi there ✌️
 
-Glad you stopped by. You wonder who I am and what I do?
+Glad you stopped by. You wonder what I do?
 
 * I'm a **freelance software developer** living near Berlin, Germany 📍
-* I have a 💚 for open source, data privacy, UX and social engagement
+* I have a 💚 for open source, data privacy, UX and social commitment
 * Always having some side projects going on 🤗
 
 
 
-Do you want to connect, have questions or a job request? 
+Do you want to connect, have questions or even a job request? 
 
 * 📧 [mail@philipptrenz.de](mailto:mail@philipptrenz.de)
 * 📞 [+49 176 44553932](tel:+4917644553932)
@@ -48,11 +48,11 @@ Check it out @ [covidpass.eu](https://covidpass.eu/)
 
 Melina Monks accompanies people in body awareness, wish for children and birth support. Based on the corporate design by [Johanna Mellenthin](https://www.linkedin.com/in/johannamellenthin/), [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/) designed the website. And I finally implemented it as a statically generated page with [Nuxt.js](https://github.com/nuxt/nuxt.js).
 
-Check it out @ [melinamonks.de](http://melinamonks.de)
+Check it out @ [melinamonks.de](https://melinamonks.de)
 
 
 
-## Professional career
+## Career
 
 * 👨‍💼 Freelance software developer @ home office (since 2021)
 * 👨‍🎓 Master of Science in *IT-Systems Engineering* @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/en/) (2018-ongoing)

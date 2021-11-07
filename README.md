@@ -61,7 +61,7 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 ## My favorite technologies
 
 * 🏠 [Kirby](https://github.com/getkirby/kirby) and [wagtail](https://github.com/wagtail/wagtail) for websites and CMS
-* 👔 [Vue](https://github.com/vuejs/vue) / [Nuxt.js](https://github.com/nuxt/nuxt.js) and [tailwindcss](https://github.com/tailwindlabs/tailwindcss) for web projects
+* 👔 [Vue.js](https://github.com/vuejs/vue) / [Nuxt.js](https://github.com/nuxt/nuxt.js) and [tailwindcss](https://github.com/tailwindlabs/tailwindcss) for web projects
 * 📡 [django](https://github.com/django/django) and [Flask](https://github.com/pallets/flask) for APIs and database mapping
 * 📱 [Flutter](https://github.com/flutter/flutter) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for apps
 * ☁️ [kubernetes](https://kubernetes.io/de/) and [Apache Kafka](https://kafka.apache.org) for cloud services

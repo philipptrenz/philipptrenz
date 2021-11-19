@@ -17,20 +17,7 @@ Also feel free to add me on [LinkedIn](https://www.linkedin.com/in/philipp-trenz
 
 
 
-## My favorite technologies
-
-* [Vue](https://github.com/vuejs/vue) / [Nuxt.js](https://github.com/nuxt/nuxt.js) and [tailwindcss](https://github.com/tailwindlabs/tailwindcss) for web projects
-* [django](https://github.com/django/django) and [Flask](https://github.com/pallets/flask) for APIs and database mapping
-* [Flutter](https://github.com/flutter/flutter) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for apps
-* [Kirby](https://github.com/getkirby/kirby) and [wagtail](https://github.com/wagtail/wagtail) for websites and CMS
-* [kubernetes](https://kubernetes.io/de/) and [Apache Kafka](https://kafka.apache.org) for cloud services
-* Python in general for data analysis, visualization and prototyping
-
-
-
 ## Recent projects
-
-Here comes a selection of my projects, I hope you like it!
 
 ### covidpass.eu 
 
@@ -65,11 +52,11 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 ## Career
 
 * 👨‍💼 Freelance software developer (since 2021)
-* 👨‍🎓 Master of Science in *IT-Systems Engineering* @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/en/) (2018-ongoing)
-* 👨‍🔬 Research Assistant in *Computer Graphics* @ [Hasso-Plattner-Institute, Potsdam](https://hpi.de/doellner/home.html) (2020-2021)
-* 👨‍💻 Intern in *Computer Graphics* / *iOS Development* @ [Digital Masterpieces, Potsdam](https://www.digitalmasterpieces.com) (2020-2021)
-* 👨‍🎓 Bachelor of Science in *Media Informatics* @ [Harz University, Wernigerode](https://www.hs-harz.de/en/) (2014-2018) 
-* 👨‍💻 Intern in *Automotive* / *Computer Graphics* @ [AKKA Digital, Ingolstadt](https://www.akka-technologies.com/sector/empower-your-activities-with-digital-technologies/) (2017-2018) 
+* 👨‍🎓 Master of Science in *IT-Systems Engineering* @ [Hasso-Plattner-Institute, Potsdam (Germany)](https://hpi.de/en/) (2018-ongoing)
+* 👨‍🔬 Research Assistant in *Computer Graphics* @ [Hasso-Plattner-Institute, Potsdam (Germany)](https://hpi.de/doellner/home.html) (2020-2021)
+* 👨‍💻 Intern in *Computer Graphics* / *iOS Development* @ [Digital Masterpieces, Potsdam (Germany)](https://www.digitalmasterpieces.com) (2020-2021)
+* 👨‍🎓 Bachelor of Science in *Media Informatics* @ [Harz University, Wernigerode (Germany)](https://www.hs-harz.de/en/) (2014-2018) 
+* 👨‍💻 Intern in *Automotive* / *Computer Graphics* @ [AKKA Digital, Ingolstadt (Germany)](https://www.akka-technologies.com/sector/empower-your-activities-with-digital-technologies/) (2017-2018) 
 
 
 
@@ -77,4 +64,15 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 
 * 💁‍♂️ Co-Founder & Dev @ [covidpass.eu](https://covidpass.eu) (2021-today)
 * 🙆‍♂️ Support in IT and PR @ [casayohana Foundation (Germany)](https://casayohana.org) (2020-today)
-* 🙋‍♂️ Network and IT System Administrator @ [casayohana (Campus Peru)](https://casayohana.org) (2019-today)
+* 🙋‍♂️ Network and IT System Administrator @ [casayohana (Peru)](https://casayohana.org) (2019-today)
+
+
+
+## My favorite technologies
+
+* 🏠 [Kirby](https://github.com/getkirby/kirby) and [wagtail](https://github.com/wagtail/wagtail) for websites and CMS
+* 👔 [Vue.js](https://github.com/vuejs/vue) / [Nuxt.js](https://github.com/nuxt/nuxt.js) and [tailwindcss](https://github.com/tailwindlabs/tailwindcss) for web projects
+* 📡 [Django](https://github.com/django/django) and [Flask](https://github.com/pallets/flask) for APIs and database mapping
+* 📱 [Flutter](https://github.com/flutter/flutter) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for apps
+* ☁️ [kubernetes](https://kubernetes.io/de/) and [Apache Kafka](https://kafka.apache.org) for cloud services
+* 🐍 Python in general for data analysis, visualization and prototyping

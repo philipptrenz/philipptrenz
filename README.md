@@ -33,7 +33,7 @@ Check it out @ [covidpass.eu](https://covidpass.eu/)
 
 ![podcast2phone - digitization without losses](images/og-podcast2phone.jpg)
 
-podcast2phone offers podcast producers and media houses the possibility to offer their audio on demand content to people who have limited or no access to digital services. With this cloud software, podcasts and individual audio episodes can be conveniently connected to our cloud telephone infrastructure via a web interface. Set up in just a few minutes your audio content, otherwise only available digitally, can now be listened to on the probably most common audio device: The phone.
+podcast2phone enables podcast producers and media houses to offer their audio on demand content to people who have limited or no access to digital services. With this cloud software, podcasts and individual audio episodes can be conveniently connected to our cloud telephone infrastructure via a web interface. Set up in just a few minutes your audio content, otherwise only available digitally, can now be listened to on the probably most common audio device: The phone.
 
 The project was developed together with UX designers [Marius Classen](https://www.linkedin.com/in/claßen/) and [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/).
 

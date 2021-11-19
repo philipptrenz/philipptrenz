@@ -37,6 +37,8 @@ podcast2phone offers podcast producers and media houses the possibility to offer
 
 The project was developed together with UX designers [Marius Classen](https://www.linkedin.com/in/claßen/) and [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/).
 
+Check it out @ [podcast2phone.de](https://podcast2phone.de) (Landingpage coming soon)
+
 
 
 ### melinamonks.de

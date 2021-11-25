@@ -13,7 +13,7 @@ Do you want to connect, have questions or even a job request?
 * 📧 [mail@philipptrenz.de](mailto:mail@philipptrenz.de)
 * 📞 [+49 176 44553932](tel:+4917644553932)
 
-Also feel free to add me on [LinkedIn](https://www.linkedin.com/in/philipp-trenz-a544a8182/). Looking forward to hear from you! 🖖
+Also feel free to add me on [LinkedIn](https://www.linkedin.com/in/philipptrenz/). Looking forward to hear from you! 🖖
 
 
 

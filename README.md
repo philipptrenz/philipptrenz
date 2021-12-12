@@ -77,4 +77,5 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 * 📡 [Django](https://github.com/django/django) and [Flask](https://github.com/pallets/flask) for APIs and database mapping
 * 📱 [Flutter](https://github.com/flutter/flutter) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for apps
 * ☁️ [kubernetes](https://kubernetes.io/de/) and [Apache Kafka](https://kafka.apache.org) for cloud services
+* 🎛 [platformio](https://platformio.org) for hardware tinkering
 * 🐍 Python in general for data analysis, visualization and prototyping

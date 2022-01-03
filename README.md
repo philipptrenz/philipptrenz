@@ -13,7 +13,7 @@ Do you want to connect, have questions or even a job request?
 * 📧 [mail@philipptrenz.de](mailto:mail@philipptrenz.de)
 * 📞 [+49 176 44553932](tel:+4917644553932)
 
-Also feel free to add me on [LinkedIn](https://www.linkedin.com/in/philipp-trenz-a544a8182/). Looking forward to hear from you! 🖖
+Also feel free to add me on [LinkedIn](https://www.linkedin.com/in/philipptrenz/). Looking forward to hear from you! 🖖
 
 
 
@@ -37,7 +37,7 @@ podcast2phone enables podcast producers and media houses to offer their audio on
 
 The project was developed together with UX designers [Marius Classen](https://www.linkedin.com/in/claßen/) and [Donatus Wolf](https://www.linkedin.com/in/donatuswolf/).
 
-Check it out @ [podcast2phone.de](https://podcast2phone.de) (Landingpage coming soon)
+Check it out @ [podcast2phone.de](https://podcast2phone.de)
 
 
 
@@ -87,4 +87,5 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 * 📡 [Django](https://github.com/django/django) and [Flask](https://github.com/pallets/flask) for APIs and database mapping
 * 📱 [Flutter](https://github.com/flutter/flutter) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for apps
 * ☁️ [kubernetes](https://kubernetes.io/de/) and [Apache Kafka](https://kafka.apache.org) for cloud services
+* 🎛 [platformio](https://platformio.org) for hardware tinkering
 * 🐍 Python in general for data analysis, visualization and prototyping

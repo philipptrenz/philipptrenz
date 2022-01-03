@@ -45,7 +45,7 @@ Check it out @ [podcast2phone.de](https://podcast2phone.de)
 
 ![Johanna Mellenthin Open Graph Image](images/og-johannamellenthin.jpg)
 
-[Hanna](https://www.linkedin.com/in/johannamellenthin/) is a freelance graphic designer and illustrator who works primarily with sustainable companies. Her clients include [The Female Company](https://www.thefemalecompany.com), [Nivea](https://www.nivea.com) and [klaeny](http://klaeny.de). For her, based on the provided design I built her website, where she can showcase her projects. The website was developed based on [Kirby](https://github.com/getkirby/kirby) and [tailwindcss](https://github.com/tailwindlabs/tailwindcss).
+[Hanna](https://www.linkedin.com/in/johannamellenthin/) is a freelance graphic designer and illustrator who works primarily with sustainable companies. Her clients include [The Female Company](https://www.thefemalecompany.com), [Nivea](https://www.nivea.com) and [klaeny](http://klaeny.de). Based on the provided design, I built her website, where she showcases her projects. The website uses [Kirby](https://github.com/getkirby/kirby) as CMS and [tailwindcss](https://github.com/tailwindlabs/tailwindcss) as frontend framework.
 
 Check it out @ [johannamellenthin.de](https://johannamellenthin.de/)
 

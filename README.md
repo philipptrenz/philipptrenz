@@ -64,7 +64,7 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 ## Career
 
 * 👨‍💼 Freelance software developer (since 2021)
-* 👨‍🎓 Master of Science in *IT-Systems Engineering* @ [Hasso-Plattner-Institute, Potsdam (Germany)](https://hpi.de/en/) (2018-ongoing)
+* 👨‍🎓 Master of Science in *IT-Systems Engineering* @ [Hasso-Plattner-Institute, Potsdam (Germany)](https://hpi.de/en/) (2018-2023)
 * 👨‍🔬 Research Assistant in *Computer Graphics* @ [Hasso-Plattner-Institute, Potsdam (Germany)](https://hpi.de/doellner/home.html) (2020-2021)
 * 👨‍💻 Intern in *Computer Graphics* / *iOS Development* @ [Digital Masterpieces, Potsdam (Germany)](https://www.digitalmasterpieces.com) (2020-2021)
 * 👨‍🎓 Bachelor of Science in *Media Informatics* @ [Harz University, Wernigerode (Germany)](https://www.hs-harz.de/en/) (2014-2018) 
@@ -74,9 +74,9 @@ Check it out @ [melinamonks.de](https://melinamonks.de)
 
 ## Voluntary Work
 
-* 💁‍♂️ Co-Founder & Dev @ [covidpass.eu](https://covidpass.eu) (2021-today)
-* 🙆‍♂️ Support in IT and PR @ [casayohana Foundation (Germany)](https://casayohana.org) (2020-today)
-* 🙋‍♂️ Network and IT System Administrator @ [casayohana (Peru)](https://casayohana.org) (2019-today)
+* 💁‍♂️ Co-Founder & Dev @ [covidpass.eu](https://covidpass.eu) (since 2021)
+* 🙆‍♂️ Support in IT and PR @ [casayohana Foundation (Germany)](https://casayohana.org) (since 2020)
+* 🙋‍♂️ Network and IT System Administrator @ [casayohana (Peru)](https://casayohana.org) (since 2019)
 
 
 

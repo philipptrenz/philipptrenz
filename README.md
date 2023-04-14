@@ -12,7 +12,7 @@ Do you want to connect, have questions or even a job request?
 
 * 📧 [mail@philipptrenz.de](mailto:mail@philipptrenz.de)
 * 📞 [+49 176 44553932](tel:+4917644553932)
-* 💬 <a rel="me" href="https://mastodon.social/@philipptrenz">@philipptrenz</a>
+* 💬 <a rel="me" href="https://mastodon.social/@philipptrenz">@philipptrenz@mastodon.social</a>
 
 Also feel free to add me on [LinkedIn](https://www.linkedin.com/in/philipptrenz/). Looking forward to hear from you! 🖖
 

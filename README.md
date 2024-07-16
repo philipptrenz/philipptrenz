@@ -30,8 +30,8 @@ Also feel free to add me on [LinkedIn](https://www.linkedin.com/in/philipptrenz/
 
 ## Voluntary Work
 
-* ❌ IT and PR @ [TEDxPotsdam](https://tedxpotsdam.de) (since 2022)
-* 🙋‍♂️ Network and IT System Administrator @ [casayohana](https://casayohana.org) (since 2019)
+* ❌ IT and Website @ [TEDxPotsdam](https://tedxpotsdam.de) (since 2022)
+* 🙋‍♂️ IT and Power Systems @ [casayohana](https://casayohana.org) (since 2019)
 
 
 

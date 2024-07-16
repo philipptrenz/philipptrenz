@@ -37,10 +37,10 @@ Also feel free to add me on [LinkedIn](https://www.linkedin.com/in/philipptrenz/
 
 ## My favorite technologies
 
-* 🏠 [Kirby](https://github.com/getkirby/kirby) and [wagtail](https://github.com/wagtail/wagtail) for websites and CMS
+* 🏠 [Kirby](https://github.com/getkirby/kirby) for websites and CMS
 * 👔 [Vue.js](https://github.com/vuejs/vue) / [Nuxt.js](https://github.com/nuxt/nuxt.js) and [tailwindcss](https://github.com/tailwindlabs/tailwindcss) for web projects
-* 📡 [Django](https://github.com/django/django) and [Flask](https://github.com/pallets/flask) for APIs and database mapping
+* 📡 [Django](https://github.com/django/django), [Flask](https://github.com/pallets/flask) and [FastAPI](https://fastapi.tiangolo.com/) for APIs and database mapping
 * 📱 [Flutter](https://github.com/flutter/flutter) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for apps
-* ☁️ [kubernetes](https://kubernetes.io/de/) and [Apache Kafka](https://kafka.apache.org) for cloud services
+* ☁️ [kubernetes](https://kubernetes.io/de/) and [Apache Kafka](https://kafka.apache.org) for accelerating cloud services
 * 🎛 [platformio](https://platformio.org) for hardware tinkering
 * 🐍 Python in general for data analysis, visualization and prototyping
